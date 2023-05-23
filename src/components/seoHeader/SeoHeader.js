@@ -15,7 +15,7 @@ function SeoHeader() {
         content={seo?.og?.title}
       />
       <meta property="Samarth Mishra Website" content={seo?.og?.type} />
-      <meta property="Samarthmishra.in" content={seo?.og?.url} />
+      <meta property="Samarthmishra.xyz" content={seo?.og?.url} />
     </Helmet>
   );
 }
