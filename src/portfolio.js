@@ -248,11 +248,11 @@ const competitiveSites = {
   competitiveSites: [
     {
       siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
+      iconifyClassname: "simple-icons:github",
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/stackdevsamarth/",
+      profileLink: "https://github.com/Samarth277",
     },
     {
       siteName: "HackerRank",
@@ -263,20 +263,12 @@ const competitiveSites = {
       profileLink: "https://www.hackerrank.com/samarthmishra655",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "GeeksforGeeks",
+      iconifyClassname: "simple-icons:geeksforgeeks",
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/stacksam",
-    },
-    {
-      siteName: "Udemy",
-      iconifyClassname: "simple-icons:udemy",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "https://auth.geeksforgeeks.org/user/stackdevsamarth",
     },
     {
       siteName: "GitLab",
@@ -284,15 +276,15 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "#",
+      profileLink: "https://levelup.gitlab.com/c/TBEqAJwSTSKaOvUZBbimhw",
     },
     {
-      siteName: "IBM",
-      iconifyClassname: "simple-icons:ibm",
+      siteName: "UpGrad",
+      iconifyClassname: "simple-icons:javascript",
       style: {
         color: "#20BEFF",
       },
-      profileLink: "#",
+      profileLink: "https://courses.cognitiveclass.ai/certificates/ffe787d2eced4fc8a65a35d8400bf7be",
     },
   ],
 };
@@ -329,15 +321,6 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    //{
-    //title: "Machine Learning",
-    //subtitle: "- Andrew Ng",
-    //logo_path: "stanford_logo.png",
-    //certificate_link:
-    //  "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-    // alt_name: "Stanford University",
-    // color_code: "#8C151599",
-    //},
     {
       title: "CompTIA Network+ (N10-007)",
       subtitle: "- Samarth Mishra",
@@ -410,33 +393,6 @@ const certifications = {
       alt_name: "Internshala",
       color_code: "#D83B0199",
     },
-    //  {
-    //     title: "Kuberenetes on GCP",
-    //   subtitle: "- Qwiklabs",
-    //    logo_path: "gcp_logo.png",
-    //  certificate_link:
-    //  "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-    //     alt_name: "GCP",
-    //   color_code: "#4285F499",
-    //  },
-    //{
-    //     title: "Cryptography",
-    //   subtitle: "- Saurabh Mukhopadhyay",
-    // logo_path: "nptel_logo.png",
-    //    certificate_link:
-    //    "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-    //alt_name: "NPTEL",
-    //   color_code: "#FFBB0099",
-    // },
-    //{
-    //    title: "Cloud Architecture",
-    //  subtitle: "- Qwiklabs",
-    //      logo_path: "gcp_logo.png",
-    //    certificate_link:
-    //    "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-    //      alt_name: "GCP",
-    //    color_code: "#4285F499",
-    //},
   ],
 };
 
@@ -609,43 +565,19 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
+      name: "GSOC-23 Internet Archieve.Org Project",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: " WARI is a powerful tool that allows you to easily find and access reliable sources for your Wikipedia articles. With WARI, you can quickly search through a vast collection of books, articles, and other resources, all in one convenient platform. ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.researchgate.net/publication/369799576_Internet_ArchieveOrg",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
+      name: "THE TOR PROJECT ",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "The Development of a Tor Browser plugin for anonymous file sharing project aims to create a plugin that will allow Tor users to share files anonymously and securely. ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.researchgate.net/publication/369799303_GSOC_2023_THE_TOR_PROJECT_PROPOSAL_Dear_Tor_Project_Team_Google_Summer_of_Code_Team",
     },
   ],
 };
