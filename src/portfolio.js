@@ -284,7 +284,8 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://courses.cognitiveclass.ai/certificates/ffe787d2eced4fc8a65a35d8400bf7be",
+      profileLink:
+        "https://courses.cognitiveclass.ai/certificates/ffe787d2eced4fc8a65a35d8400bf7be",
     },
   ],
 };
@@ -567,7 +568,8 @@ const publications = {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "GSOC-23 Internet Archieve.Org Project",
       createdAt: "2020-03-06T16:26:54Z",
-      description: " WARI is a powerful tool that allows you to easily find and access reliable sources for your Wikipedia articles. With WARI, you can quickly search through a vast collection of books, articles, and other resources, all in one convenient platform. ",
+      description:
+        " WARI is a powerful tool that allows you to easily find and access reliable sources for your Wikipedia articles. With WARI, you can quickly search through a vast collection of books, articles, and other resources, all in one convenient platform. ",
       url:
         "https://www.researchgate.net/publication/369799576_Internet_ArchieveOrg",
     },
@@ -575,7 +577,8 @@ const publications = {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
       name: "THE TOR PROJECT ",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "The Development of a Tor Browser plugin for anonymous file sharing project aims to create a plugin that will allow Tor users to share files anonymously and securely. ",
+      description:
+        "The Development of a Tor Browser plugin for anonymous file sharing project aims to create a plugin that will allow Tor users to share files anonymously and securely. ",
       url:
         "https://www.researchgate.net/publication/369799303_GSOC_2023_THE_TOR_PROJECT_PROPOSAL_Dear_Tor_Project_Team_Google_Summer_of_Code_Team",
     },
@@ -594,7 +597,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "#website",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
