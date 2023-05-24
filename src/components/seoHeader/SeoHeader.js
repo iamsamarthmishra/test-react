@@ -11,10 +11,10 @@ function SeoHeader() {
         content={seo.description}
       />
       <meta
-        property="Samarth Mishra, Stackdevsamarth"
+        property="Samarth Mishra"
         content={seo?.og?.title}
       />
-      <meta property="Samarth Mishra Website" content={seo?.og?.type} />
+      <meta property="" content={seo?.og?.type} />
       <meta property="Samarthmishra.xyz" content={seo?.og?.url} />
     </Helmet>
   );
