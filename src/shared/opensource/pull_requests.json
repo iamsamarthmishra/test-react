@@ -21,6 +21,27 @@
           "url": "https://github.com/tensorflow"
         }
       }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
+      "title": "Add debug statements and improve error handling in the build script",
+      "url": "https://github.com/facebook/docusaurus/compare/main...Samarth277:docusaurus:patch-1",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-05-25T10:17:22Z",
+      "number": 1732,
+      "changedFiles": 1,
+      "additions": 567,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "addons",
+        "url": "https://github.com/facebook/docusaurus",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69631?s=200&v=4",
+          "login": "tensorflow",
+          "url": "https://github.com/facebook"
+        }
+      }
     }
   ],
   "merged": 54,
