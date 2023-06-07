@@ -293,6 +293,18 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "Indira Gandhi National Open University",
+      subtitle: "Bachelor of Computer Applications - BCA",
+      logo_path: "IGNOU.png",
+      alt_name: "IGNOU",
+      duration: "2023-2026",
+      descriptions: [
+        "⚡ I have studied basic Programming Languages, Data Structures and Algorithms, Database Management Systems (DBMS), Computer Networks, Operating Systems, Software Engineering, Web Development, Object-Oriented Programming (OOP) & Computer Architecture etc.",
+        "⚡ I am pursuing my BCA from IGNOU under central government of India",
+      ],
+      website_link: "#",
+    },
+    {
       title: "Indian Institute of Information Technology Kharagpur",
       subtitle: "Ethical Hacking",
       logo_path: "iitkgp.png",
