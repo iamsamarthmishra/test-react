@@ -247,7 +247,7 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
+      siteName: "GitHub",
       iconifyClassname: "simple-icons:github",
       style: {
         color: "#F79F1B",
