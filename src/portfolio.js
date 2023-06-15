@@ -26,7 +26,7 @@ const greeting = {
     "Ingenious and determined Full-stack developer & a Offensive Penetration Tester with great experience as Freelancer and Intern in IT & Software Engineering with experience in JavaScript, Python, reverse engineering, and ethical hacking. I have contributed to Internet Archive.org and the Tor Project through Google Summer of Code 2023.",
 
   resumeLink:
-    "https://drive.google.com/file/d/16ighlMjEdZ7ZrN_YLNhkXnL-zr4XN2hl/view",
+    "https://drive.google.com/file/d/1rATBPyy0M1DBJlLEbbvWioUp2eSCb6k8/view?usp=sharing",
   portfolio_repository: "https://github.com/stackdevsamarth",
   githubProfile: "https://github.com/stackdevsamarth",
 };

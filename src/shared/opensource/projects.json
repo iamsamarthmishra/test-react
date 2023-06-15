@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MKE=",
       "name": "Racing Game",
       "createdAt": "2022-10-07T08:31:51Z",
       "url": "https://github.com/Samarth277/racinggame",
@@ -117,6 +117,28 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaHuScnkzMjU5NDM1MTE=",
+      "name": "Blogee Webpage Theme",
+      "createdAt": "2023-06-15T09:00:51Z",
+      "url": "https://github.com/Samarth277/Blogee",
+      "description": "Creating a Dynamic Blog Website: Exploring Blogs, News Feeds, Events, and Jobs!",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         }
       ]
     }
