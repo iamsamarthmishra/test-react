@@ -421,6 +421,17 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Presentation Designer",
+          company: "TTBTE",
+          company_url: "https://www.ttbte.com/",
+          logo_path: "ttbte.jpg",
+          duration: "Aug 2023 - Present",
+          location: "Andheri, Maharashtra.",
+          description:
+            "Creating/Editing, formatting, and reviewing PowerPoint slides to make presentations useful and eye-catching. Working with the internal and external stakeholders to ensure all brand presentations are of a high standard.",
+          color: "#9b1577",
+        },
+        {
           title: "Digital Marketing Intern",
           company: "Apponix Technology",
           company_url: "https://apponix.com/",
