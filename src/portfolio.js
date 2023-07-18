@@ -421,7 +421,7 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Presentation Designer",
+          title: "Presentation Designer Intern",
           company: "TTBTE",
           company_url: "https://www.ttbte.com/",
           logo_path: "ttbte.jpg",
