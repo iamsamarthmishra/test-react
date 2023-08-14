@@ -406,6 +406,15 @@ const certifications = {
       alt_name: "Internshala",
       color_code: "#D83B0199",
     },
+    {
+      title: "Level 1: BigQuery ML, Cloud Architecture and Devops Skills",
+      subtitle: "- Samarth Mishra",
+      logo_path: "google.png",
+      certificate_link:
+        "https://www.cloudskillsboost.google/public_profiles/ce252729-8554-4bf5-a2d1-445b9f927614",
+      alt_name: "Google Arcade Program",
+      color_code: "#1F70C199",
+    },
   ],
 };
 
