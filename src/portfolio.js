@@ -434,7 +434,7 @@ const experience = {
           company: "TTBTE",
           company_url: "https://www.ttbte.com/",
           logo_path: "ttbte.jpg",
-          duration: "Aug 2023 - Present",
+          duration: "Aug 2023 - Sep 2023",
           location: "Andheri, Maharashtra.",
           description:
             "Creating/Editing, formatting, and reviewing PowerPoint slides to make presentations useful and eye-catching. Working with the internal and external stakeholders to ensure all brand presentations are of a high standard.",
