@@ -407,7 +407,7 @@ const certifications = {
       color_code: "#D83B0199",
     },
     {
-      title: "Level 1: BigQuery ML, Cloud Architecture and Devops Skills",
+      title: "Google Arcade Labs",
       subtitle: "- Samarth Mishra",
       logo_path: "google.png",
       certificate_link:
