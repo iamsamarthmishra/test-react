@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Samarth Mishra",
   logo_name: "Samarthmishra",
-  nickname: "stackdevsamarth",
+  nickname: "samarthmishra.xyz",
   subTitle:
     "Ingenious and determined Full-stack developer & a Offensive Penetration Tester with great experience as Freelancer and Intern in IT & Software Engineering with experience in JavaScript, Python, reverse engineering, and ethical hacking. I have contributed to Internet Archive.org and the Tor Project through Google Summer of Code 2023.",
 
@@ -138,13 +138,13 @@ const skills = {
             color: "#61DAFB",
           },
         },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
+        // {
+        //   skillName: "NodeJS",
+        //   fontAwesomeClassname: "simple-icons:node-dot-js",
+        //   style: {
+        //     color: "#339933",
+        //   },
+        // },
         {
           skillName: "PhP",
           fontAwesomeClassname: "simple-icons:php",
